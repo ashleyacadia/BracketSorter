@@ -2,7 +2,7 @@ package BracketSorter;
 /**
  * This class evaluates string input as to whether the line will evaluate 
  * correctly by checking that brackets have matching pairs.
- * @author Ashley Crawford 
+ * @author AshleyC
  *
  */
 import java.util.Stack;
